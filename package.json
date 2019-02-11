@@ -1,14 +1,14 @@
 {
-    "name": "spklin-blog",
-    "title": "Spklin Blog",
-    "author": "Spklin <e13310@gmail.com>",
+    "name": "spkiln-blog",
+    "title": "Spkiln Blog",
+    "author": "Spkiln <e13310@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://spklin.github.io",
+    "homepage": "http://spkiln.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/spklin/spklin.github.io"
+        "url": "https://github.com/spkiln/spkiln.github.io"
     },
-    "bugs": "https://github.com/spklin/spklin.github.io/issues",
+    "bugs": "https://github.com/spkiln/spkiln.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

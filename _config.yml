@@ -1,13 +1,13 @@
 # Site settings
-title: Spklin
-SEOTitle:  红薯窑 | Spklin
+title: Spkiln
+SEOTitle:  红薯窑 | Spkiln
 header-img: img/post-bg-desk.jpg
 email: e13310@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Spklin,  红薯窑, 成长"
-url: "http://spklin.github.io"          # your host, for absolute URL
+keyword: "Spkiln,  红薯窑, 成长"
+url: "http://spkiln.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/spklin/spklin.github.io" # you code repository
+github_repo: "https://github.com/spkiln/spkiln.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -102,7 +102,7 @@ friends: [
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
 #    },{
-#        title: "简书·Spklin",
+#        title: "简书·Spkiln",
 #        href: "http://www.jianshu.com/u/e71990ada2fd"
 #    },{
 #        title: "Apple",

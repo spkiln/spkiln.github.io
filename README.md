@@ -1,7 +1,7 @@
 
 
 >
-### [查看博客戳这里 👆](http://spklin.github.io)
+### [查看博客戳这里 👆](http://spkiln.github.io)
 
 
 ## 致谢
@@ -11,5 +11,5 @@
 
 ## License
 
-遵循 Apache2.0 许可证。有关详细,请参阅 [LICENSE](https://github.com/spklin/spklin.github.io/blob/master/LICENSE)。
+遵循 Apache2.0 许可证。有关详细,请参阅 [LICENSE](https://github.com/spkiln/spkiln.github.io/blob/master/LICENSE)。
 
